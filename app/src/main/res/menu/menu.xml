@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="MyProfile"
+        android:id="@+id/myprofile"
+        android:icon="@drawable/ic_person_pin_black_24dp"
+        ></item>
+    <item
+        android:title="Settongs"
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_person_pin_black_24dp"
+        ></item>
+    <item
+        android:title="FeedBack"
+        android:id="@+id/feedback"
+        android:icon="@drawable/ic_feedback_black_24dp"
+        >
+
+    </item>
+</menu>
